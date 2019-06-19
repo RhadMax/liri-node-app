@@ -17,6 +17,9 @@ var command = process.argv[2];
 function liri() {
     // console.log("liri running with input: "+ input+" and command: " +command)
     if (command === "spotify-this-song") {
+        if (input === "") {
+            input = "The Sign"
+        }
         spotify.search({ type: 'track', query: input }, function (err, data) {
             if (err) {
                 return console.log('Error occurred: ' + err);
@@ -37,6 +40,9 @@ function liri() {
         });
     }
     if (command === "movie-this") {
+        if (input === "") {
+            input = "Mr. Nobody"
+        }
         var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
         axios.get(queryUrl).then(
             function (response) {
