@@ -41,16 +41,16 @@ As this application is built purely for the node run-time environment, there is 
 ##### Technologies
 This application makes use of the following technologies:
 
-  1. Javascript
-  2. NodeJS
-  3. GitHub, gitIgnore
-  4. npmJS Packages
-    * nodeFS
-    * moment
-    * node-spotify-api
-    * dotenv
-    * axios (OMDB API, BandInTown API)
+1. Javascript
+2. NodeJS
+3. GitHub, gitIgnore
+4. npmJS Packages
+  * nodeFS
+  * moment
+  * node-spotify-api
+  * dotenv
+  * axios (OMDB API, BandInTown API)
 ---
 
-##### By
+##### Credits
 This application was developed exclusively by myself, Max Patten. I made use of skills and references taught to and provided to me by the UCSD Extension Full Stack Coding Bootcamp. The instructions for setting up the application as well as a description of its intended functionality were also provided to me by the Bootcamp. The extent of my developing the application was the writing of the liri.js file in its entirity.
