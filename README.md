@@ -33,8 +33,8 @@ This application makes use of the following technologies:
   4. npmJS Packages
     * nodeFS
     * axios
-      * OMDB API
-      * BandInTown API
+      1. OMDB API
+      2. BandInTown API
     * moment
     * node-spotify-api
     * dotenv
