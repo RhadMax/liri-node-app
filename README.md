@@ -31,10 +31,12 @@ This application makes use of the following technologies:
   2. NodeJS
   3. GitHub, gitIgnore
   4. npmJS Packages
+
     * nodeFS
     * axios
       1. OMDB API
       2. BandInTown API
+      
     * moment
     * node-spotify-api
     * dotenv
