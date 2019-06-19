@@ -1,0 +1,106 @@
+------------------------------
+ Performed command: spotify-this-song
+ Searched for: The Nookie
+ Found results: 
+----- 
+ Artist: Limp Bizkit
+ Song: Nookie- For The Nookie
+ Preview URL: null
+ Album: New Old Songs
+ -----,----- 
+ Artist: Sex Pistols
+ Song: Nookie - Anarchy In the U.K.
+ Preview URL: https://p.scdn.co/mp3-preview/0fb227992e0db44b4aed6da86c9ecf3792a7ab95?cid=8603b01390484d228516f14f694b5486
+ Album: Spunk (Bonus Track Edition)
+ -----,----- 
+ Artist: Richard Cheese
+ Song: Nookie
+ Preview URL: https://p.scdn.co/mp3-preview/07ba806648b3bc67d6c282c0300ec9694ff61ba9?cid=8603b01390484d228516f14f694b5486
+ Album: The Sunny Side of the Moon: The Best of Richard Cheese
+ -----,----- 
+ Artist: Various Artists
+ Song: Nookie - Live (1999) Explicit
+ Preview URL: null
+ Album: The Family Values Tour 1999
+ -----,----- 
+ Artist: Big Cynthia
+ Song: She Working That Nookie Thang
+ Preview URL: https://p.scdn.co/mp3-preview/1815cef6e4771d7c33b37484ec502af8fdc69015?cid=8603b01390484d228516f14f694b5486
+ Album: Return Of The Female Mack
+ -----,----- 
+ Artist: The Masked Marauders
+ Song: I Can't Get No Nookie
+ Preview URL: https://p.scdn.co/mp3-preview/b2d8955efec94d665eaa5a9443a04054d6aaeeb0?cid=8603b01390484d228516f14f694b5486
+ Album: The Complete Deity Recordings
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: Give a Little Love - 94 Lick
+ Preview URL: https://p.scdn.co/mp3-preview/427e9ffc3f0082db356c6dd883a123c515fef6a8?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Sound Of Music
+ -----,----- 
+ Artist: Dennis McFarlane
+ Song: You Got to Slow Down - Nookie Remix
+ Preview URL: https://p.scdn.co/mp3-preview/16fdc5942346955217d425890b905af96b6e0eb0?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents: Tek 9 - The Early Plates
+ -----,----- 
+ Artist: Nookie
+ Song: My Lovin
+ Preview URL: https://p.scdn.co/mp3-preview/faf36569cb23914217f6c3681bb54dae7bc9139b?cid=8603b01390484d228516f14f694b5486
+ Album: In @ the Deep End
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: Give a Little Love - Manix Remix
+ Preview URL: https://p.scdn.co/mp3-preview/c20aee86cf4c05e1bdd08401cc29f32ccb1a70e4?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Early Plates
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: Shining in da Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/a95d77319e9da1f1d0ebb9619ad1be3cab37cfe7?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Early Plates
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: Gonna Let U Go
+ Preview URL: https://p.scdn.co/mp3-preview/e0a4f98c4fe4cbb3dbf2749309e3574b1247d4cd?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Sound Of Music
+ -----,----- 
+ Artist: Limp Bizkit
+ Song: Nookie- For The Nookie - Album Version (Edited)
+ Preview URL: null
+ Album: New Old Songs
+ -----,----- 
+ Artist: The Saddle Tramps
+ Song: Fortune Cookie Nookie
+ Preview URL: https://p.scdn.co/mp3-preview/9650a914e509500f8e6686f560c5abe07dc5d131?cid=8603b01390484d228516f14f694b5486
+ Album: Don't Laugh It's Prayed For: Songs Of Sacrilege And Salvation
+ -----,----- 
+ Artist: Various Artists
+ Song: Nookie - Live (1999) Edited
+ Preview URL: null
+ Album: The Family Values Tour 1999
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: The Blues
+ Preview URL: https://p.scdn.co/mp3-preview/15849b7506145481f4ed7356924813131c3bb8af?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Early Plates
+ -----,----- 
+ Artist: Nookie
+ Song: Pushing the Vibe
+ Preview URL: https://p.scdn.co/mp3-preview/82f5ffb647f0a9b0596aa48b4c5202cca63af7bc?cid=8603b01390484d228516f14f694b5486
+ Album: In @ the Deep End
+ -----,----- 
+ Artist: Nookie
+ Song: The Blues - 2011 Re-Mastered Mix
+ Preview URL: https://p.scdn.co/mp3-preview/27740d6a59209dec19485b902d3aa3ca274c06ee?cid=8603b01390484d228516f14f694b5486
+ Album: Klass of '92 - '95 (Lesson 4)
+ -----,----- 
+ Artist: Gavin Cheung
+ Song: The Sound of Music - Original Mix
+ Preview URL: https://p.scdn.co/mp3-preview/6550ad22babdf7f96d5122d23cf624ea67b11151?cid=8603b01390484d228516f14f694b5486
+ Album: Reinforced Presents Nookie - The Sound Of Music
+ -----,----- 
+ Artist: Nookie
+ Song: Shining in the Darkness - 2011 Remastered Mix
+ Preview URL: https://p.scdn.co/mp3-preview/2090fbfa0a28ba296f4c5d14c0544c96896bccbf?cid=8603b01390484d228516f14f694b5486
+ Album: Klass of '92 - '95 (Lesson 2)
+ -----
+------------------------------

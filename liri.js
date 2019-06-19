@@ -22,22 +22,28 @@ function liri() {
                 return console.log('Error occurred: ' + err);
             }
             var items = data.tracks.items
-            for (var i = 0; i <= items.length; i++) {
+            var results = [];
+            for (var i = 0; i < items.length; i++) {
                 const artistName = data.tracks.items[i].album.artists[0].name;
                 const songName = data.tracks.items[i].name;
                 const songUrl = data.tracks.items[i].preview_url;
                 const songAlbum = data.tracks.items[i].album.name
                 // console.log(data.tracks.items[0])
-                console.log("----- \n Artist: " + artistName + "\n Song: " + songName + "\n Preview URL: " + songUrl + "\n Album: " + songAlbum + "\n -----");
+                var result = "----- \n Artist: " + artistName + "\n Song: " + songName + "\n Preview URL: " + songUrl + "\n Album: " + songAlbum + "\n -----"
+                console.log(result);
+                results.push(result);
             }
+            logger(command,input,results)
         });
     }
     if (command === "movie-this") {
         var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
         axios.get(queryUrl).then(
             function (response) {
-                // console.log(response.data.Ratings)
-                console.log("----- \n Title: " + response.data.Title + "\n Released: " + response.data.Released + "\n IMDB Rating: " + response.data.Ratings[0] + "\n Rotten Tomatoes Rating: " + response.data.Ratings[1] + "\n Country of Production: " + response.data.Country + "\n Language(s): " + response.data.Language + "\n Plot: " + response.data.Plot + "\n Actors: " + response.data.Actors + "\n -----");
+                console.log(response.data.Ratings[1])
+                var result = "----- \n Title: " + response.data.Title + "\n Released: " + response.data.Released + "\n IMDB Rating: " + response.data.Ratings[0].Value + "\n Rotten Tomatoes Rating: " + response.data.Ratings[1].Value + "\n Country of Production: " + response.data.Country + "\n Language(s): " + response.data.Language + "\n Plot: " + response.data.Plot + "\n Actors: " + response.data.Actors + "\n -----";
+                console.log(result)
+                logger(command,input,result);
             })
             .catch(function (error) {
                 console.log(error);
@@ -50,13 +56,17 @@ function liri() {
                 // console.log("concert-this request received")
                 // console.log(response.data[0]);
                 const data = response.data;
+                var results = []
                 for (var i = 0; i < data.length; i++) {
                     const venue = data[i].venue.name;
                     const city = data[i].venue.city;
                     const country = data[i].venue.country;
                     const date = moment(data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY");
-                    console.log("-----\n Venue: " + venue + "\n Location: " + city + ", " + country + "\n Date: " + date)
+                    var result = "-----\n Venue: " + venue + "\n Location: " + city + ", " + country + "\n Date: " + date + "\n";
+                    console.log("-----\n Venue: " + venue + "\n Location: " + city + ", " + country + "\n Date: " + date);
+                    results.push(result);
                 }
+                logger(command,input, results)
             })
             .catch(function (error) {
                 console.log(error);
@@ -76,6 +86,15 @@ function liri() {
         });
     }
 }
+
+function logger(command, input, result) {
+    fs.appendFile("log.txt", "------------------------------\r\n Performed command: "+command+ "\r\n Searched for: "+input+"\r\n Found results: \r\n"+result+"\r\n------------------------------\r\n", function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    });
+}
+
 liri();
 //Make it so liri.js can take in one of the following commands:
 // concert-this
