@@ -25,11 +25,11 @@ In order to run the Liri application in the node runtime environment, the user n
 Here are some examples of the application in action:
 
 * Images:
-  * [Concert-This Command]()
-  * [Spotify-This-Song Command]()
-  * [Movie-This Command]()
-  * [Log File With Results]()
-  * [Test Cases Showing No Input for OMDB/Spotify]()
+  * [Concert-This Command](images/concert-demo.jpg)
+  * [Spotify-This-Song Command](images/log-demo.jpg)
+  * [Movie-This Command](images/movie-demo.jpg)
+  * [Log File With Results](images/spotify-demo.jpg)
+  * [Test Cases Showing No Input for OMDB/Spotify](images/test-cases-demo.jpg)
 * Video:
   * [Screencastify Demonstration]()
 

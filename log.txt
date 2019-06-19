@@ -225,3 +225,457 @@
  Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
  -----
 ------------------------------
+------------------------------
+ Performed command: concert-this
+ Searched for: Weezer
+ Found results: 
+-----
+ Venue: Rock Werchter 2019
+ Location: Werchter, Belgium
+ Date: 06/28/2019
+,-----
+ Venue: O2 Academy Brixton
+ Location: London, United Kingdom
+ Date: 06/29/2019
+,-----
+ Venue: Tivoli Vredenburg
+ Location: Utrecht, Netherlands
+ Date: 07/01/2019
+,-----
+ Venue: Stadtpark
+ Location: Hamburg-nord, Germany
+ Date: 07/02/2019
+,-----
+ Venue: Stade de France
+ Location: Paris, France
+ Date: 07/05/2019
+,-----
+ Venue: Eurockéennes
+ Location: Belfort, France
+ Date: 07/06/2019
+,-----
+ Venue: Sonic Park 
+ Location: Bologna, Italy
+ Date: 07/07/2019
+,-----
+ Venue: Xtra
+ Location: Zurich, Switzerland
+ Date: 07/08/2019
+,-----
+ Venue: NOS Alive Festival
+ Location: Oeiras, Portugal
+ Date: 07/11/2019
+,-----
+ Venue: Bilbao BBK (July 11th-13th, Single Day TBA)
+ Location: Bilbao, Spain
+ Date: 07/13/2019
+,-----
+ Venue: Grönan Live
+ Location: Stockholm, Sweden
+ Date: 07/16/2019
+,-----
+ Venue: Bukta Open Air Festival (July 18th-20th, Single Day TBA)
+ Location: Tromso, Norway
+ Date: 07/18/2019
+,-----
+ Venue: Malakoff Festival (July 18th-20th, Single Day TBA)
+ Location: Nordeide I Sogn, Norway
+ Date: 07/20/2019
+,-----
+ Venue: North Dakota State Fair Center
+ Location: Minot, United States
+ Date: 07/27/2019
+,-----
+ Venue: Festivent Ville de Lévis (July 31st-August 4th, Single Day TBA)
+ Location: Levis, Canada
+ Date: 07/31/2019
+,-----
+ Venue: Musikfest
+ Location: Bethlehem, United States
+ Date: 08/05/2019
+,-----
+ Venue: ZOZO Marine Stadium
+ Location: Chiba-shi, Japan
+ Date: 08/16/2019
+,-----
+ Venue: Maishima Sports Island
+ Location: Osaka-shi, Japan
+ Date: 08/18/2019
+,-----
+ Venue: Jazz Aspen Snowmass
+ Location: Snowmass, United States
+ Date: 08/30/2019
+,-----
+ Venue: Washington State Fair
+ Location: Puyallup, United States
+ Date: 09/01/2019
+,-----
+ Venue: Jockey Club
+ Location: Lima, Peru
+ Date: 09/22/2019
+,-----
+ Venue: Movistar Arena
+ Location: Santiago, Chile
+ Date: 09/24/2019
+,-----
+ Venue: Rock in Rio
+ Location: Rio De Janeiro, Brazil
+ Date: 09/28/2019
+,-----
+ Venue: Estadio El Campín
+ Location: Bogota, Colombia
+ Date: 10/01/2019
+,-----
+ Venue: Estadio Nacional de Costa Rica
+ Location: San Jose, Costa Rica
+ Date: 10/04/2019
+
+------------------------------
+------------------------------
+ Performed command: spotify-this-song
+ Searched for: the witchdoctor
+ Found results: 
+----- 
+ Artist: Cool Breeze
+ Song: Watch for the Hook (Dungeon Family Mix)
+ Preview URL: https://p.scdn.co/mp3-preview/d55c2a915e46449332610bbff7de65e9819ce053?cid=8603b01390484d228516f14f694b5486
+ Album: East Point's Greatest Hit
+ -----,----- 
+ Artist: Clutch
+ Song: Witchdoctor
+ Preview URL: https://p.scdn.co/mp3-preview/d5b494b47ec5aa47182b780890b45dfc697d000c?cid=8603b01390484d228516f14f694b5486
+ Album: Strange Cousins From the West
+ -----,----- 
+ Artist: Jimmy Page
+ Song: I'm Your Witchdoctor
+ Preview URL: https://p.scdn.co/mp3-preview/8ea6049939237bb4a3f4424930013b4bfb15a131?cid=8603b01390484d228516f14f694b5486
+ Album: Slip Crop
+ -----,----- 
+ Artist: Witchdoctor
+ Song: 7th Floor/The Serengetti
+ Preview URL: null
+ Album: A S.W.A.T. Healin' Ritual
+ -----,----- 
+ Artist: Witchdoctor
+ Song: 4 In The Temple
+ Preview URL: null
+ Album: A S.W.A.T. Healin' Ritual
+ -----,----- 
+ Artist: Witchdoctor
+ Song: The Ancient Sahore
+ Preview URL: null
+ Album: A S.W.A.T. Healin' Ritual
+ -----,----- 
+ Artist: Witchdoctor
+ Song: A.T.L. The Great Big Lick
+ Preview URL: null
+ Album: A S.W.A.T. Healin' Ritual
+ -----,----- 
+ Artist: Various Artists
+ Song: Holiday / 12 Scanner - Soundtrack Version (Edited)
+ Preview URL: null
+ Album: Bulworth The Soundtrack
+ -----,----- 
+ Artist: Cunninlynguists
+ Song: Everywhere (Witchdoctor F. Deacon The Villain) [Deluxe Edition]
+ Preview URL: https://p.scdn.co/mp3-preview/f2fa5857076791f69f521868e162b9fc0be501ed?cid=8603b01390484d228516f14f694b5486
+ Album: Strange Journey Volume Two [Deluxe Edition]
+ -----,----- 
+ Artist: Witchdoctor
+ Song: The Ritual
+ Preview URL: null
+ Album: A S.W.A.T. Healin' Ritual
+ -----,----- 
+ Artist: The Bluesbones
+ Song: The Witchdoctor
+ Preview URL: https://p.scdn.co/mp3-preview/d578862e326cbfef8d3d23b6d231075094b90fb9?cid=8603b01390484d228516f14f694b5486
+ Album: Voodoo Guitar
+ -----,----- 
+ Artist: Witchdoctor
+ Song: The Gubberment
+ Preview URL: https://p.scdn.co/mp3-preview/4b3f8f23d6da5b2b43b4e2ab0f8ef88acf89a5d3?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----,----- 
+ Artist: Witchdoctor
+ Song: The Barrel
+ Preview URL: https://p.scdn.co/mp3-preview/c4705e908f0868908e1c7eb0b9635f07de11e60c?cid=8603b01390484d228516f14f694b5486
+ Album: Diary Of An American Witchdoctor
+ -----,----- 
+ Artist: Witchdoctor
+ Song: King of the Beasts
+ Preview URL: https://p.scdn.co/mp3-preview/4ddd1020a3b0f82c70e7499d0385404c40089f0a?cid=8603b01390484d228516f14f694b5486
+ Album: Diary Of An American Witchdoctor
+ -----,----- 
+ Artist: Witchdoctor
+ Song: Cream of the Crop
+ Preview URL: https://p.scdn.co/mp3-preview/2bb08fbd370217419e71f5207691b3ebbc1fed2c?cid=8603b01390484d228516f14f694b5486
+ Album: Diary Of An American Witchdoctor
+ -----,----- 
+ Artist: Witchdoctor
+ Song: Rap Sex (feat. Tallie3100)
+ Preview URL: https://p.scdn.co/mp3-preview/ebd05c6ba60c51a838baaa7c587d97ae569e8258?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----,----- 
+ Artist: Witchdoctor
+ Song: The Gubberment Intro (feat. PittBully, Fowler, & Sammie Vegas)
+ Preview URL: https://p.scdn.co/mp3-preview/73ab7b57cf5364952bd94a1590093c7aeb560ff4?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----,----- 
+ Artist: Witchdoctor
+ Song: Whack Em (feat. Sir Ghandi & The Love-Unit)
+ Preview URL: https://p.scdn.co/mp3-preview/27fb47a668b0caee293a23983eb14e09c4686be1?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----,----- 
+ Artist: Witchdoctor
+ Song: 40 Club (Khujo Goodie & Goodie Mob)
+ Preview URL: https://p.scdn.co/mp3-preview/282c84ad69b38803d52cd10a77ee528d4c0454f4?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----,----- 
+ Artist: Witchdoctor
+ Song: My Bitch Name Is Hip Hop (feat. Cas Metah)
+ Preview URL: https://p.scdn.co/mp3-preview/87fb2c657ebf13ee71422fb87067279995d7f447?cid=8603b01390484d228516f14f694b5486
+ Album: The Gubberment
+ -----
+------------------------------
+------------------------------
+ Performed command: spotify-this-song
+ Searched for: under cover of darkness
+ Found results: 
+----- 
+ Artist: The Strokes
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/93b2162121b87bfac75dd5f4ac6dcf14fd07abe2?cid=8603b01390484d228516f14f694b5486
+ Album: Angles
+ -----,----- 
+ Artist: The Strokes
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/56996389140b76bcf2cef085c06ef386fa45e673?cid=8603b01390484d228516f14f694b5486
+ Album: Under Cover of Darkness
+ -----,----- 
+ Artist: The Hipster Orchestra
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/028c6c9732decb540ca64d9668ff4a9e6b275031?cid=8603b01390484d228516f14f694b5486
+ Album: Hipster Dinner Party
+ -----,----- 
+ Artist: Living Colour
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/d7cda8f2976d28fd235b615249d41762cba34e06?cid=8603b01390484d228516f14f694b5486
+ Album: Time'S Up
+ -----,----- 
+ Artist: Von Hertzog
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/8fe3febc310d38bedb93e2ea55f75b97bd94cf32?cid=8603b01390484d228516f14f694b5486
+ Album: Under Cover of Darkness
+ -----,----- 
+ Artist: Vitamin String Quartet
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/32cc838bf58d705ed0c19d5b900fee5acaf31d9e?cid=8603b01390484d228516f14f694b5486
+ Album: Vitamin String Quartet Performs Modern Rock Hits 2011 Vol.1
+ -----,----- 
+ Artist: Massakren
+ Song: Under Cover Of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/1e006b07c48892226f78691e93bb6145abeced65?cid=8603b01390484d228516f14f694b5486
+ Album: Massakren
+ -----,----- 
+ Artist: Various Artists
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/77bd79fe8545d30a143671d6d3388e9da5300b33?cid=8603b01390484d228516f14f694b5486
+ Album: Outstanding Vol. 5
+ -----,----- 
+ Artist: Jon Gagan
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/1f47991f16277af3421f0db498f198998da93ee0?cid=8603b01390484d228516f14f694b5486
+ Album: Transit 2
+ -----,----- 
+ Artist: Lady Volcano
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/5095636ac870bc01d08bc6628dd87c2bbdae367e?cid=8603b01390484d228516f14f694b5486
+ Album: Falcon's Dream
+ -----,----- 
+ Artist: Kazahaya
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/28da7de788aa84896da843bfc3a569c3da18d7bf?cid=8603b01390484d228516f14f694b5486
+ Album: Beats, Soul and Life
+ -----,----- 
+ Artist: Various Artists
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/4b2799b9ad94d7f7d71a256a259ed9a108415f9b?cid=8603b01390484d228516f14f694b5486
+ Album: Tension: Secrets and Cunning
+ -----,----- 
+ Artist: The Smivets
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/4ad23f7c771d3ea47168ea6ed5d9fc47e70d0302?cid=8603b01390484d228516f14f694b5486
+ Album: Lost the Plot
+ -----,----- 
+ Artist: Wishnefsky
+ Song: . . . Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/8b6ab686e33dcb5ce2819a7e19fd74e89dd5c5c6?cid=8603b01390484d228516f14f694b5486
+ Album: Nightwalker
+ -----,----- 
+ Artist: Various Artists
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/b1e4a1f5ae0ded5461d52038de07afb75c177542?cid=8603b01390484d228516f14f694b5486
+ Album: 50 Rock'n'Roll & Rock Classics
+ -----,----- 
+ Artist: Various Artists
+ Song: Under Cover Of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/edea84694872fa2e7aa640f2d54f71325d3d8499?cid=8603b01390484d228516f14f694b5486
+ Album: Interdimensional Enlightment Compiled by Mayatekk
+ -----,----- 
+ Artist: Bjørn Lynne
+ Song: Under Cover Of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/4aa7e23cffd5516ae8f2d4139587708c8bc33ece?cid=8603b01390484d228516f14f694b5486
+ Album: Undercover
+ -----,----- 
+ Artist: Jecko
+ Song: Under Cover Of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/63f47fb229819f1dc23204e5a5a86000e2ac337f?cid=8603b01390484d228516f14f694b5486
+ Album: Allegoria
+ -----,----- 
+ Artist: Aunt Nancy
+ Song: Under Cover Of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/a08c83f2d0e3adde6671537cee224d83f16cabe8?cid=8603b01390484d228516f14f694b5486
+ Album: Jesters, Fools And Dreamers
+ -----,----- 
+ Artist: The Seduction
+ Song: Under Cover of Darkness
+ Preview URL: https://p.scdn.co/mp3-preview/5fe8274a79de6e9dfb7e3545451a77f278eb08e2?cid=8603b01390484d228516f14f694b5486
+ Album: Bad Seeds on Fertile Ground
+ -----
+------------------------------
+------------------------------
+ Performed command: movie-this
+ Searched for: The Lord of the Rings
+ Found results: 
+----- 
+ Title: The Lord of the Rings
+ Released: 15 Nov 1978
+ IMDB Rating: 6.2/10
+ Rotten Tomatoes Rating: 50%
+ Country of Production: USA, UK, Spain
+ Language(s): English, Sindarin
+ Plot: The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.
+ Actors: Christopher Guard, William Squire, Michael Scholes, John Hurt
+ -----
+------------------------------
+------------------------------
+ Performed command: movie-this
+ Searched for: Mr. Nobody
+ Found results: 
+----- 
+ Title: Mr. Nobody
+ Released: 26 Sep 2013
+ IMDB Rating: 7.8/10
+ Rotten Tomatoes Rating: 67%
+ Country of Production: Belgium, Germany, Canada, France, USA, UK
+ Language(s): English, Mohawk
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ -----
+------------------------------
+------------------------------
+ Performed command: spotify-this-song
+ Searched for: The Sign
+ Found results: 
+----- 
+ Artist: Harry Styles
+ Song: Sign of the Times
+ Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=8603b01390484d228516f14f694b5486
+ Album: Harry Styles
+ -----,----- 
+ Artist: Various Artists
+ Song: Scared of the Dark (feat. XXXTENTACION)
+ Preview URL: null
+ Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+ -----,----- 
+ Artist: Ty Dolla $ign
+ Song: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+ Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=8603b01390484d228516f14f694b5486
+ Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+ -----,----- 
+ Artist: Jeremih
+ Song: Impatient
+ Preview URL: null
+ Album: Late Nights: The Album
+ -----,----- 
+ Artist: Harry Styles
+ Song: Sign of the Times
+ Preview URL: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=8603b01390484d228516f14f694b5486
+ Album: Sign of the Times
+ -----,----- 
+ Artist: Ace of Base
+ Song: The Sign
+ Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=8603b01390484d228516f14f694b5486
+ Album: The Sign (US Album) [Remastered]
+ -----,----- 
+ Artist: MihTy
+ Song: The Light
+ Preview URL: null
+ Album: The Light
+ -----,----- 
+ Artist: Mac Miller
+ Song: Cinderella (feat. Ty Dolla $ign)
+ Preview URL: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=8603b01390484d228516f14f694b5486
+ Album: The Divine Feminine
+ -----,----- 
+ Artist: Ty Dolla $ign
+ Song: Love U Better (feat. Lil Wayne & The-Dream)
+ Preview URL: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=8603b01390484d228516f14f694b5486
+ Album: Beach House 3
+ -----,----- 
+ Artist: Quality Control
+ Song: Movin’ Up
+ Preview URL: null
+ Album: Quality Control: Control The Streets Volume 1
+ -----,----- 
+ Artist: The Chainsmokers
+ Song: Do You Mean (with Ty Dolla $ign & bülow)
+ Preview URL: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=8603b01390484d228516f14f694b5486
+ Album: World War Joy
+ -----,----- 
+ Artist: Rich The Kid
+ Song: Woah (feat. Miguel & Ty Dolla $ign)
+ Preview URL: null
+ Album: The World Is Yours 2
+ -----,----- 
+ Artist: Ty Dolla $ign
+ Song: Droptop in the Rain (feat. Tory Lanez)
+ Preview URL: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=8603b01390484d228516f14f694b5486
+ Album: Beach House 3
+ -----,----- 
+ Artist: Lil Durk
+ Song: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+ Preview URL: null
+ Album: Signed To The Streets 3
+ -----,----- 
+ Artist: Coldplay
+ Song: Warning Sign
+ Preview URL: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=8603b01390484d228516f14f694b5486
+ Album: A Rush of Blood to the Head
+ -----,----- 
+ Artist: Juicy J, Wiz Khalifa & Ty Dolla $ign
+ Song: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+ Preview URL: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=8603b01390484d228516f14f694b5486
+ Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+ -----,----- 
+ Artist: Ace of Base
+ Song: All That She Wants
+ Preview URL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=8603b01390484d228516f14f694b5486
+ Album: The Sign (US Album) [Remastered]
+ -----,----- 
+ Artist: Various Artists
+ Song: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+ Preview URL: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=8603b01390484d228516f14f694b5486
+ Album: Suicide Squad: The Album
+ -----,----- 
+ Artist: Chance the Rapper
+ Song: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+ Preview URL: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=8603b01390484d228516f14f694b5486
+ Album: Coloring Book
+ -----,----- 
+ Artist: Ace of Base
+ Song: The Sign
+ Preview URL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=8603b01390484d228516f14f694b5486
+ Album: Greatest Hits
+ -----
+------------------------------
