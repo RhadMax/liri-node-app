@@ -16,15 +16,28 @@ if (command === "spotify-this-song") {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
-        const artistName = data.tracks.items[0].album.artists[0].name;
-        const songName = data.tracks.items[0].name;
-        const songUrl = data.tracks.items[0].preview_url;
-        // console.log(data.tracks.items[0])
-        console.log(artistName + " - " + songName + "\r\n Preview URL: "+songUrl);
+        var items = data.tracks.items
+        for (var i = 0; i <= items.length; i++) {
+            const artistName = data.tracks.items[i].album.artists[0].name;
+            const songName = data.tracks.items[i].name;
+            const songUrl = data.tracks.items[i].preview_url;
+            const songAlbum = data.tracks.items[i].album.name
+            // console.log(data.tracks.items[0])
+            console.log("----- \n Artist: " + artistName + "\n Song: " + songName + "\n Preview URL: " + songUrl + "\n Album: " + songAlbum + "\n -----");
+        }
     });
 }
-
-
+if (command === "movie-this") {
+    var queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&apikey=trilogy";
+    axios.get(queryUrl).then(
+        function (response) {
+            // console.log(response.data.Ratings)
+            console.log("----- \n Title: " + response.data.Title + "\n Released: " + response.data.Released + "\n IMDB Rating: " + response.data.Ratings[0] + "\n Rotten Tomatoes Rating: " + response.data.Ratings[1] + "\n Country of Production: " + response.data.Country + "\n Language(s): " + response.data.Language + "\n Plot: " + response.data.Plot + "\n Actors: " + response.data.Actors + "\n -----");
+        })
+        .catch(function (error) {
+            console.log(error);
+        });
+}
 //Make it so liri.js can take in one of the following commands:
 // concert-this
 // node liri.js spotify-this-song 
