@@ -6,6 +6,7 @@ var spotify = new Spotify(keys.spotify);
 //     id: process.env.SPOTIFY_ID,
 //     secret: process.env.SPOTIFY_SECRET
 // });
+var moment = require("moment");
 var axios = require("axios");
 var input = process.argv.slice(3).join(" ");
 console.log("You searched for: " + input)
@@ -33,6 +34,16 @@ if (command === "movie-this") {
         function (response) {
             // console.log(response.data.Ratings)
             console.log("----- \n Title: " + response.data.Title + "\n Released: " + response.data.Released + "\n IMDB Rating: " + response.data.Ratings[0] + "\n Rotten Tomatoes Rating: " + response.data.Ratings[1] + "\n Country of Production: " + response.data.Country + "\n Language(s): " + response.data.Language + "\n Plot: " + response.data.Plot + "\n Actors: " + response.data.Actors + "\n -----");
+        })
+        .catch(function (error) {
+            console.log(error);
+        });
+}
+if (command === "concert-this") {
+    var queryUrl = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp";
+    axios.get(queryUrl).then(
+        function (response) {
+            console.log(response.data);
         })
         .catch(function (error) {
             console.log(error);
