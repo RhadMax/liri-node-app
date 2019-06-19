@@ -26,12 +26,12 @@ Here are some examples of the application in action:
 
 * Images:
   * [Concert-This Command](images/concert-demo.jpg)
-  * [Spotify-This-Song Command](images/log-demo.jpg)
+  * [Spotify-This-Song Command](images/spotify-demo.jpg)
   * [Movie-This Command](images/movie-demo.jpg)
-  * [Log File With Results](images/spotify-demo.jpg)
+  * [Log File With Results](images/log-demo.jpg)
   * [Test Cases Showing No Input for OMDB/Spotify](images/test-cases-demo.jpg)
 * Video:
-  * [Screencastify Demonstration]()
+  * [Screencastify Demonstration](https://drive.google.com/file/d/1h20w1lVUejmxXtWe6DDVnRSV6XiNkmS_/view)
 
 ---
 As this application is built purely for the node run-time environment, there is no deployed link. However, please feel free to inspect the code here in the GitHub repository and view the sample images or video above. You can also recreate it locally to be run in node for yourself but will need to create an .env file with the appropriate keys for the API's used (notably, Spotify).
