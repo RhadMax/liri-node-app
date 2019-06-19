@@ -14,7 +14,7 @@ In order to run the Liri application in the node runtime environment, the user n
   * **movie-this** ::           Returns data from OMDB with the movie title, release date, IMDB and rotten tomatoes ratings, country of release,                               languages, plot and actors
   * **do-what-it-says** ::      Takes text data found in the local file random.txt and passes it into the liri function, returning results if found.
 
-
+---
 * Here are some examples of the application in action:
 
 * Images:
@@ -27,7 +27,7 @@ In order to run the Liri application in the node runtime environment, the user n
   * [Screencastify Demonstration]()
 
 As this application is built purely for the node run-time environment, there is no deployed link. However, please feel free to inspect the code here in the GitHub repository and view the sample images or video above. You can also recreate it locally to be run in node for yourself but will need to create an .env file with the appropriate keys for the API's used (notably, Spotify).
-
+---
 * This application makes use of the following technologies:
 
   1. Javascript
@@ -38,9 +38,6 @@ As this application is built purely for the node run-time environment, there is 
     * moment
     * node-spotify-api
     * dotenv
-  5. axios package
-    1. OMDB API
-    2. BandInTown API
-
-
+    * axios (OMDB API, BandInTown API)
+---
 This application was developed exclusively by myself, Max Patten. I made use of skills and references taught to and provided to me by the UCSD Extension Full Stack Coding Bootcamp. The instructions for setting up the application as well as a description of its intended functionality were also provided to me by the Bootcamp. The extent of my developing the application was the writing of the liri.js file in its entirity.
