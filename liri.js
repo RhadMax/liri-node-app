@@ -1,12 +1,37 @@
 require("dotenv").config();
 var keys = require("./keys.js");
+var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify);
+// var spotify = new Spotify({
+//     id: process.env.SPOTIFY_ID,
+//     secret: process.env.SPOTIFY_SECRET
+// });
+var axios = require("axios");
+var input = process.argv.slice(3).join(" ");
+console.log("You searched for: " + input)
+const command = process.argv[2];
+
+if (command === "spotify-this-song") {
+    spotify.search({ type: 'track', query: input }, function (err, data) {
+        if (err) {
+            return console.log('Error occurred: ' + err);
+        }
+        const artistName = data.tracks.items[0].album.artists[0].name;
+        const songName = data.tracks.items[0].name;
+        const songUrl = data.tracks.items[0].preview_url;
+        // console.log(data.tracks.items[0])
+        console.log(artistName + " - " + songName + "\r\n Preview URL: "+songUrl);
+    });
+}
+
 
 //Make it so liri.js can take in one of the following commands:
 // concert-this
-// spotify-this-song
-// movie-this
+// node liri.js spotify-this-song 
+// node liri.js movie-this
 // do-what-it-says
+
+
 // What Each Command Should Do
 
 // node liri.js concert-this <artist/band name here>
