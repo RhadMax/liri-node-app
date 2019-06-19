@@ -8,13 +8,15 @@ Liri will consist of several axios blocks of code which will communicate with th
 
 In order to run the Liri application in the node runtime environment, the user needs to open their terminal in its containing directory and pass arguments using the node command. The application will interpret the command inputted in the third index of arguments, and will interpret the fourth index as the content to search for. In other words, the user must type in "node liri.js <command> <search content>". Search content can be formatted in almost any way and will be parsed, though results may vary depending on the package/API being queried.  
 * Accepted commands are:
+
   * **concert-this** ::         Returns upcoming venues where a band will be playing by venue name, venue location, and date of event.
   * **spotify-this-song** ::    Returns all results with each result's artist name, song name, a link to a preview sound file, and the album
   * **movie-this** ::           Returns data from OMDB with the movie title, release date, IMDB and rotten tomatoes ratings, country of release,                               languages, plot and actors
   * **do-what-it-says** ::      Takes text data found in the local file random.txt and passes it into the liri function, returning results if found.
 
 
-Here are some examples of the application in action:
+* Here are some examples of the application in action:
+
 * Images:
   * [Concert-This Command]()
   * [Spotify-This-Song Command]()
@@ -26,19 +28,19 @@ Here are some examples of the application in action:
 
 As this application is built purely for the node run-time environment, there is no deployed link. However, please feel free to inspect the code here in the GitHub repository and view the sample images or video above. You can also recreate it locally to be run in node for yourself but will need to create an .env file with the appropriate keys for the API's used (notably, Spotify).
 
-This application makes use of the following technologies:
+* This application makes use of the following technologies:
+
   1. Javascript
   2. NodeJS
   3. GitHub, gitIgnore
   4. npmJS Packages
-
     * nodeFS
-    * axios
-      1. OMDB API
-      2. BandInTown API
-      
     * moment
     * node-spotify-api
     * dotenv
+  5. axios package
+    1. OMDB API
+    2. BandInTown API
+
 
 This application was developed exclusively by myself, Max Patten. I made use of skills and references taught to and provided to me by the UCSD Extension Full Stack Coding Bootcamp. The instructions for setting up the application as well as a description of its intended functionality were also provided to me by the Bootcamp. The extent of my developing the application was the writing of the liri.js file in its entirity.
